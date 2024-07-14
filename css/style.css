@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  color: yellow;
+  text-shadow: 2px 2px 2px darkyello;
+}
+
+p {
+  color: #eee;
+  line-height: 1.5;
+}
+  
+strong {
+  font-style: italic;
+} 
+
+figure {
+  text-align: center;
+} 
+
+img {
+  border: 2px solid yellow;
+}
+
+figcaption {
+  color: #aaa;
+  font-size: 0.8em;
+} 
+
+div {
+  padding: 1em 0;
+} 
+
+ul {
+  list-style-type: square;
+} 
+
+li {
+  margin: 0.5em 0;
+  line-height: 1.5;
+} 
+
+span {
+  color: #aaa;
+  font-size: 0.8em;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
